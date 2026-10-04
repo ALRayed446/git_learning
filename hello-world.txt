@@ -1,1 +1,5 @@
-THis is first prject to create file in git
+Hello World
+This is my first Git learning project.
+I am learning Git step by step.
+This change is being made in the feature-intro branch.
+I am learning GitHub workflow.
